@@ -1,3 +1,0 @@
-Hello world
---------------
-Teste teste
